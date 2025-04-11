@@ -3,5 +3,6 @@
 
 void main(){
     int numero;
+    int numero2;
     
 }
